@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/xing-zhi/unit-test-playground#readme",
   "devDependencies": {
-    "faucet": "0.0.1"
+    "faucet": "0.0.1",
+    "tape": "^4.2.2"
   }
 }
