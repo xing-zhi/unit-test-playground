@@ -26,5 +26,18 @@
   "devDependencies": {
     "faucet": "0.0.1",
     "tape": "^4.2.2"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/8..lastest",
+      "chrome/30..lastest",
+      "firefox/20..lastest",
+      "safari/lastest",
+      "opera/20..lastest",
+      "iphone/6",
+      "ipad/6",
+      "android-browser/lastest"
+    ]
   }
 }
