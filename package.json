@@ -1,0 +1,26 @@
+{
+  "name": "unit-test-playground",
+  "version": "0.0.1",
+  "description": "a playground for unit test.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xing-zhi/unit-test-playground.git"
+  },
+  "keywords": [
+    "playground",
+    "unit-test"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xing-zhi/unit-test-playground/issues"
+  },
+  "homepage": "https://github.com/xing-zhi/unit-test-playground#readme"
+}
